@@ -32,7 +32,7 @@
 
    **Repo**: https://github.com/oclockvn/crazytimer
 
-## 4. Simple ATM Software
+## 4. ✅ Simple ATM Software
    **Requirements:**
    This simple project will essentially create a simulation of an ATM within a Windows program. Just like an ATM, the program should have at least the following features:
    
@@ -54,3 +54,5 @@
    - Use bank.json for data source 
    [bank.json](https://github.com/oclockvn/learning-projects/files/13947239/bank.json)
    - use JsonDeserialize/JsonSerialize
+
+   **Repo**: https://github.com/tungbinhdinh89/ATMApp
